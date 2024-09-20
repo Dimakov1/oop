@@ -18,5 +18,5 @@
 - Отправить ссылку на репозитарий в lms.mai.ru
 
 ## Задание для *12* варианта ## 
-![Задание](![image](https://github.com/user-attachments/assets/574e4aa7-63d5-4885-a669-621c575aeb7f)
+![Задание](img/image.png)
 )
