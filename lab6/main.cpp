@@ -6,11 +6,6 @@
 #include <sstream>
 #include <memory>
 #include <locale>
-
-#ifdef _WIN32
-#include <codecvt>
-#endif
-
 #include "Subject.h"
 #include "ConsoleLogger.h"
 #include "FileLogger.h"
